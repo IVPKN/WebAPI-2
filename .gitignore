@@ -4,3 +4,4 @@ venv/
 tasks.db
 .idea/
 .vscode/
+README.md

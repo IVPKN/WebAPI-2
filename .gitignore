@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.venv
+tasks.db
+.idea/
+.vscode/
